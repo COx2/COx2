@@ -1,4 +1,7 @@
-### Hi there 👋
+# Tatsuya Shiozawa / 塩澤 達矢
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=COx2&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=COx2&layout=compact)
+
 
 <!--
 **COx2/COx2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
