@@ -23,20 +23,16 @@ Passionate about **integration engineering** in audio application and plugin dev
 **Framework Integration**
 - [juce_meets_link](https://github.com/COx2/juce_meets_link) ![Stars](https://img.shields.io/github/stars/COx2/juce_meets_link?style=social) - Ableton Link + JUCE
 - [juce_meets_DaisySP](https://github.com/COx2/juce_meets_DaisySP) ![Stars](https://img.shields.io/github/stars/COx2/juce_meets_DaisySP?style=social) - DaisySP DSP Library + JUCE
-- [imgui_juce](https://github.com/COx2/imgui_juce) ![Stars](https://img.shields.io/github/stars/COx2/imgui_juce?style=social) - Dear ImGui + JUCE
 
 **Modern UI**
 - [audio-plugin-web-ui](https://github.com/COx2/audio-plugin-web-ui) ![Stars](https://img.shields.io/github/stars/COx2/audio-plugin-web-ui?style=social) - Web UI for audio plugins
 - [glslEditor_AudioPlugin](https://github.com/COx2/glslEditor_AudioPlugin) ![Stars](https://img.shields.io/github/stars/COx2/glslEditor_AudioPlugin?style=social) - GLSL editor plugin
-- [clap-webview-demo](https://github.com/COx2/clap-webview-demo) ![Stars](https://img.shields.io/github/stars/COx2/clap-webview-demo?style=social) - WebView + CLAP
 
 **Build & Infrastructure**
 - [deno-advent-calender-2025](https://github.com/COx2/deno-advent-calender-2025) ![Stars](https://img.shields.io/github/stars/COx2/deno-advent-calender-2025?style=social) - Type-safe build with Deno
-- [juce-wasm-build-cmake](https://github.com/COx2/juce-wasm-build-cmake) ![Stars](https://img.shields.io/github/stars/COx2/juce-wasm-build-cmake?style=social) - JUCE to WebAssembly
 
 **Community**
 - [JUCE_JAPAN_DEMO](https://github.com/COx2/JUCE_JAPAN_DEMO) ![Stars](https://img.shields.io/github/stars/COx2/JUCE_JAPAN_DEMO?style=social)
-- [juce-jp-handson-202406](https://github.com/COx2/juce-jp-handson-202406) ![Stars](https://img.shields.io/github/stars/COx2/juce-jp-handson-202406?style=social)
 
 ## 💻 Tech Stack
 
