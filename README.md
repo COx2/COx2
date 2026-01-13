@@ -45,6 +45,6 @@ C++ • JUCE • CMake • TypeScript • WebView • OpenGL/GLSL • VST3 • A
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=COx2&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=COx2&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=COx2&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=COx2&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
 </p>
