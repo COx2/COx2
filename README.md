@@ -14,7 +14,7 @@ Passionate about **integration engineering** in audio application and plugin dev
 **Areas of Interest:**
 - Audio Plugin Development (VST3, AU, CLAP)
 - JUCE Framework Integration
-- Modern UI Solutions (Web, OpenGL, ImGui)
+- Modern UI Solutions (Web, JUCE Component, OpenGL, ImGui)
 - Build Systems & Development Infrastructure
 - Audio DSP & Real-time Processing
 
@@ -24,7 +24,7 @@ Passionate about **integration engineering** in audio application and plugin dev
 - [juce_meets_link](https://github.com/COx2/juce_meets_link) ![Stars](https://img.shields.io/github/stars/COx2/juce_meets_link?style=social) - Ableton Link + JUCE
 - [juce_meets_DaisySP](https://github.com/COx2/juce_meets_DaisySP) ![Stars](https://img.shields.io/github/stars/COx2/juce_meets_DaisySP?style=social) - DaisySP DSP Library + JUCE
 
-**Modern UI**
+**Audio Visualize**
 - [audio-plugin-web-ui](https://github.com/COx2/audio-plugin-web-ui) ![Stars](https://img.shields.io/github/stars/COx2/audio-plugin-web-ui?style=social) - Web UI for audio plugins
 - [glslEditor_AudioPlugin](https://github.com/COx2/glslEditor_AudioPlugin) ![Stars](https://img.shields.io/github/stars/COx2/glslEditor_AudioPlugin?style=social) - GLSL editor plugin
 
